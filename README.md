@@ -25,7 +25,7 @@ It's OK for your program to be a simple command-line tool that needs to be run f
 1. Run command - pip install -r requirements.txt
 2. Enter your credentials in auth_info.txt. For example:
 
-   ![1679845207121](image/README/1679845207121.png)
+   ![1679890634339](image/README/1679890634339.png)
 
 # Run Code
 
